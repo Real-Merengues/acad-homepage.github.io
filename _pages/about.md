@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student in Computer Science at the Northeastern University. I am looking for the internship for 2024 summer.
+I am a master student in Computer Science at the [Northeastern University](https://www.northeastern.edu/). I am looking for the internship for 2024 summer.
 
-# 🔨 Projects:
-Film Gallery(https://github.com/ZhangAmyyy/film_gallery): Online film gallery.
-
-🔖
-
+# 🔨 Projects
+- [Film Gallery](https://github.com/ZhangAmyyy/film_gallery): Online film gallery.
+	
 
 # 💻 Internships
 - *2023.05 - 2023.09*, [JLR](https://github.com/), Portland, U.S.
